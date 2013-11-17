@@ -28,4 +28,3 @@
 		- Différents statistiques sur les liens récupéré
 		- Faire fonctionner correctement l'affichage
 		- Adapter ce systèmes en remplaçant l'expression régulière pour les liens par une pour les images
-		- Mettre en place un timeout (le crawler se bloque sur certaines sites)

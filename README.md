@@ -17,15 +17,15 @@ License PRO - IUT Nantes
 
 - Pour lancer l'application placer vous dans le répertoire webcrawler/
 - il faut lancer mongodb :
-- 
+
 		./mongodb/bin/mongod
 
 - Pour démarrer l'application :
-- 
+
 		nodejs scraper.js
 
 - Rendez-vous sur :
-- 
+
 		http://localhost:8080/scraper
 
 - Entrez l'url à parcourir dans le champs prévu à cet effet

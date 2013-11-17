@@ -2,7 +2,7 @@
 
 Hugues ROBINEAU
 License PRO - IUT Nantes
-17 Novembre 2013
+	17 Novembre 2013
 
 # Exercice 2 - [Web Crawler](http://fr.wikipedia.org/wiki/WebCrawler)
 
@@ -16,10 +16,8 @@ License PRO - IUT Nantes
 ## Fonctionnement
 
 - Pour lancer l'application placer vous dans le répertoire webcrawler/
-- il faut lancer mongodb :		
-	    	./mongodb/bin/mongod
-- Pour démarrer l'application :	 	
-	    	nodejs scraper.js
+- il faut lancer mongodb :   	   	./mongodb/bin/mongod
+- Pour démarrer l'application :	 	nodejs scraper.js
 - Rendez-vous sur 
 	    	http://localhost:8080/scraper
 - Entrez l'url à parcourir dans le champs prévu à cet effet

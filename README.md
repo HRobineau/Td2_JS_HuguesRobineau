@@ -24,9 +24,7 @@ License PRO - IUT Nantes
 
 		nodejs scraper.js
 
-- Rendez-vous sur :
-
-		http://localhost:8080/scraper
+- Rendez-vous sur :[http://localhost:8080/scraper](http://localhost:8080/scraper)
 
 - Entrez l'url à parcourir dans le champs prévu à cet effet
 - Validez

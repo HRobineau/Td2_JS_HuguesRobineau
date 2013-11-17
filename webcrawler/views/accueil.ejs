@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WebCrawler</title>
+        <style>
+            a {text-decoration: none; color: black;}
+        </style>
+    </head>
+    <body>
+        <h1>Webcrawler</h1>
+        <ul>
+        <% links.forEach(function(lien, index) { %>
+            <li><a href="/scraper/supprimer/<%= index %>">✘</a> <%= lien %></li>
+        <% }); %>
+        </ul>
+        <form action="/scraper/search/" method="post">
+            <p>
+                <label for="newtodo">Entrez un lien :</label>
+                <input type="text" name="newtodo" id="newtodo" autofocus />
+                <input type="submit" />
+            </p>
+        </form>
+	<form action="/scraper/affiche/" method="post">
+            <p>
+                <input type="submit" value="afficher"/>
+            </p>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,3 @@
+Le problème évoqué avant provient des fichiers bdd.js et serveur.js
+la fonction afficheHtml() retourne un tableau contenant les différents liens
+J'arrive à récuperer le tableau quand l'appel de la fonction est au début du fichier serveur.js mais pas dans une fonction

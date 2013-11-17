@@ -1,0 +1,20 @@
+{
+  "author": "Hugues <hugues@huguesrobineau.net>",
+  "name": "webspider",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "async": "~0.2.9",
+    "lodash": "~2.2.1",
+    "request": "~2.27.0",
+    "winston": "~0.7.2",
+    "express": "~3.4.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
